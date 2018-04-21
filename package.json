@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "esm": "^3.0.21"
+  }
+}
